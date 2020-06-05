@@ -247,7 +247,9 @@ img{
  .font-container,.time{
     transform:scale(0.6);
   }
-
+.output2{
+  z-index:2;
+}
  .font-variable{
   margin-left:5px;
   margin-top:300px;
@@ -274,6 +276,7 @@ img{
   position:absolute;
   top:38px;
   left:44%;
+  z-index:-2;	
 }
 .font-variable .font{
   margin-bottom:3px;
