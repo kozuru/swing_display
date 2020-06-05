@@ -66,8 +66,8 @@ body{
   position: relative;
   top: 0px;
   left: -0%;
-  height:50px;
-  width:260px;
+  height:53px;
+  width:275px;
 }
 #output1::before {
   display: block;
@@ -285,13 +285,13 @@ img{
 }
 .form-element{
    position:absolute;
-  top:640px;
+  top:653px;
   left:79%;
   transform:scale(1.12);
 }
 .container-fluid{
   position:absolute;
-  top:648px;
+  top:661px;
   left:-25%;
   transform:scale(1.12);
 }
