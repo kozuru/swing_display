@@ -263,7 +263,7 @@ img{
 }
 #output1{
   top:-10px;
-  left:-10%;
+  left:-15%;
 }
 .output1 p{
   white-space:nowrap;
@@ -286,7 +286,7 @@ img{
 }
 .form-element{
    position:absolute;
-  top:662px;
+  top:665px;
   left:79%;
   transform:scale(1.12);
 }
@@ -308,5 +308,5 @@ img{
   display:none;
 }
 .led-display,dis p{
-  margin-top:20px;
+  margin-top:23px;
 }
