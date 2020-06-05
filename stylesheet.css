@@ -286,13 +286,13 @@ img{
 }
 .form-element{
    position:absolute;
-  top:653px;
+  top:662px;
   left:79%;
   transform:scale(1.12);
 }
 .container-fluid{
   position:absolute;
-  top:661px;
+  top:710px;
   left:-25%;
   transform:scale(1.12);
 }
@@ -301,5 +301,12 @@ img{
   font-size:11px;
   margin-bottom:2px;
 }
-
+.col h5{
+  display:none;
+}
+.form-element h5{
+  display:none;
+}
+.led-display,dis p{
+  margin-top:20px;
 }
