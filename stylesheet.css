@@ -292,7 +292,7 @@ img{
 }
 .container-fluid{
   position:absolute;
-  top:710px;
+  top:720px;
   left:-25%;
   transform:scale(1.12);
 }
@@ -308,5 +308,5 @@ img{
   display:none;
 }
 .led-display,dis p{
-  margin-top:23px;
+  margin-top:28px;
 }
