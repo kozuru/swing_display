@@ -245,7 +245,7 @@ img{
 /*スマホresponsive css*/
 @media(max-width:670px){
  .font-container,.time{
-    transform:scale(0.69);
+    transform:scale(0.67);
   }
 .output2{
   z-index:2;
