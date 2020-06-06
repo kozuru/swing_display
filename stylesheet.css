@@ -245,10 +245,12 @@ img{
 /*スマホresponsive css*/
 @media(max-width:670px){
  .font-container,.time{
-    transform:scale(0.6);
+    transform:scale(0.69);
   }
 .output2{
   z-index:2;
+  top: 32%;
+  left: 52.5%;
 }
  .font-variable{
   margin-left:5px;
@@ -275,8 +277,8 @@ img{
 .time{
   position:absolute;
   top:38px;
-  left:44%;
-  z-index:-2;	
+  left:45.2%;
+  z-index:-2;
 }
 .font-variable .font{
   margin-bottom:3px;
@@ -289,14 +291,14 @@ img{
 }
 .form-element{
    position:absolute;
-  top:695px;
-  left:79%;
+  top:700px;
+  left:78%;
   transform:scale(1.12);
 }
 .container-fluid{
   position:absolute;
-  top:730px;
-  left:-25%;
+  top:735px;
+  left:-15%;
   transform:scale(1.12);
 }
 .container-fluid h5
@@ -312,4 +314,5 @@ img{
 }
 .led-display,dis p{
   margin-top:32px;
+}
 }
