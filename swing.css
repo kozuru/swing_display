@@ -217,14 +217,14 @@ input[type=range]:focus::slider-runnable-track/*-webkit-*/ {
 /*GOD BLADE*/
 .time{
   display: inline-block;
+  position:absolute;
+  top:0px;
+  left:50%;
   width:100%;
   height:auto;
 }
 
 .i{
-  position:absolute;
-  top:0px;
-  left:50%;
   transform-origin: bottom;
 	animation: swing 2.7s infinite;
 	animation-timing-function: cubic-bezier(0.50, 0.00, 0.50, 1);
