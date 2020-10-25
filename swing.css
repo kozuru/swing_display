@@ -157,7 +157,7 @@ body {
 /*font-variable css*/
 .font-variable{
   margin-left:500px;
-  margin-top:290px;
+  margin-top:270px;
 }
 .font-variable p{
   margin-top:2px;
@@ -227,7 +227,7 @@ input[type=range]:focus::slider-runnable-track/*-webkit-*/ {
 
 .i{
   position:absolute;
-  top:15%;
+  top:19%;
   left:50%;
   transform-origin: bottom;
 	animation: swing 2.7s infinite;
