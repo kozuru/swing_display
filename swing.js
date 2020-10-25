@@ -32,7 +32,7 @@ $('document').ready(function () {
         $("iframe").contents().find(".goog-te-menu2-item div").hover(function () {
             $(this).css('background-color', '#4385F5').find('span.text').css('color', 'white');
         }, function () {
-            $(this).css('background-color', 'white').find('span.text').css('color', '#544F4B');
+            //$(this).css('background-color', 'white').find('span.text').css('color', '#544F4B');
         });
 
         // Change Google's default blue border
