@@ -222,7 +222,6 @@ input[type=range]:focus::slider-runnable-track/*-webkit-*/ {
 }
 
 .i{
-  display:block;
   position:absolute;
   top:0px;
   left:50%;
