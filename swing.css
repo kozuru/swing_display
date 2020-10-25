@@ -223,7 +223,7 @@ input[type=range]:focus::slider-runnable-track/*-webkit-*/ {
 
 .i{
   position:absolute;
-  top:29%;
+  top:26%;
   left:50%;
   transform-origin: bottom;
 	animation: swing 2.7s infinite;
