@@ -224,7 +224,7 @@ input[type=range]:focus::slider-runnable-track/*-webkit-*/ {
 .i{
   display:block;
   position:absolute;
-  top:20px;
+  top:0px;
   left:50%;
   transform-origin: bottom;
 	animation: swing 2.7s infinite;
