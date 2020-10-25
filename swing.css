@@ -52,9 +52,6 @@ body {
   font-size: 0.8rem;
   vertical-align: -10px;
 }
-.goog-te-menu-value span:nth-child(1) {
-  display: none;
-}
 .goog-te-menu-value span:nth-child(5) {
   display: none;
 }
@@ -226,7 +223,7 @@ input[type=range]:focus::slider-runnable-track/*-webkit-*/ {
 
 .i{
   position:absolute;
-  top:24%;
+  top:29%;
   left:50%;
   transform-origin: bottom;
 	animation: swing 2.7s infinite;
