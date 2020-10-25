@@ -56,7 +56,9 @@ body {
 .goog-te-menu-value span:nth-child(5) {
   display: none;
 }
-
+.goog-te-menu-value span:nth-child(1) {
+  display: none;
+}
 .goog-te-menu-value span:nth-child(3) {
   border: none !important;
   font-family: 'Material Icons';
